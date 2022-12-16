@@ -18,7 +18,7 @@ public class Grading {
 		{	
 		
 		}
-			// Select Grading to Average Marks
+			// Select Grading
 			String grade()
 			{
 				if (75 <= marks && marks <= 100 )

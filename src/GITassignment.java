@@ -2,7 +2,7 @@ import java.util.*;
 public class GITassignment {
 
 		public static void main(String[] args) {
-			
+			//Student Grading and Marks
 			        // Create a Scanner object For Input Data
 
 					Scanner no = new Scanner(System.in);  

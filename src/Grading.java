@@ -1,7 +1,7 @@
 
 public class Grading {
 
-	
+	//Grading has been categorized in to 4 
 		// Create Variable for Student_Grade Class 
 		public int marks;
 		String gradingValue; 
